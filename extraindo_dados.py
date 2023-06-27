@@ -7,5 +7,5 @@ netflix_repo = DadosReposiotrios('netflix')
 lingu_mais_usadas_netflix = netflix_repo.cria_df_linguagens()
 
 #Salvando os dados
-lingu_mais_usadas_amzn.to_csv('dados/linguages_amzn.csv')
-lingu_mais_usadas_netflix.to_csv('dados/linguages_netflix.csv')
+lingu_mais_usadas_amzn.to_csv('dados/linguagens_amzn.csv')
+lingu_mais_usadas_netflix.to_csv('dados/linguagens_netflix.csv')
